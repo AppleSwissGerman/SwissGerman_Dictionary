@@ -1,0 +1,1 @@
+[korean language nlp datasets, TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other languages) ](https://github.com/TensorSpeech/TensorFlowTTS)
