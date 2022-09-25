@@ -1,9 +1,10 @@
 # [Swiss German Dictionary](https://www.apple.com/chde/)
-![](https://i.imgur.com/dLI4HYM.jpg)
+ 
 
 [App Demo](https://www.swiss-german-online.com/app.html) VERSION WHICH SHOWS SWISS-GERMAN PHRASES EASILY IN SHORT VIDEOS. 
 Feel free to drop a message on [Personal Blog](), [Linkedin]() or [Instagram](). 
 
+![](https://prod5.assets-cdn.io/event/7699/assets/8387040913-d53c866609.jpg)
 
 Used Tools: 
 
