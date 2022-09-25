@@ -1,6 +1,6 @@
 [Original : Python client library for Google Maps API Web Services](https://github.com/googlemaps/google-maps-services-python)
 
-Python Client for Google Maps Services
+Python Client for Switzerland Google Maps Services
 ====================================
 
 ![Test](https://github.com/googlemaps/google-maps-services-js/workflows/Test/badge.svg)
