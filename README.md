@@ -4,6 +4,11 @@
 [App Demo](https://www.swiss-german-online.com/app.html) VERSION WHICH SHOWS SWISS-GERMAN PHRASES EASILY IN SHORT VIDEOS. 
 Feel free to drop a message on [Personal Blog](), [Linkedin]() or [Instagram](). 
 
+[Listen to 23 Swiss German Dialects!](https://www.youtube.com/watch?v=ce0Ys6t1I1E)
+
+
+
+![Which German Do Different Region Speak?](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoerll.utexas.edu%2Fdib%2Fpho.php%3Fk%3D8&psig=AOvVaw1NleuwkSkW5DknRpI3mSXg&ust=1664188658807000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCODxmYPgr_oCFQAAAAAdAAAAABAD)
 
 Used Tools: 
 
